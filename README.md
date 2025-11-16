@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here are the three options in plain text format, with all emojis and Markdown removed.<br><br>Option 1: The "Concise & Professional"<br>Hi there<br><br>I'm a passionate and detail-oriented student developer with a strong focus on back-end engineering and Data Science. I am driven by a desire to build clean, efficient, and high-performance software.<br><br>I’m currently mastering Data Structures & Algorithms and building web applications with Django. I'm building a Pomodoro web app to refine my skills in clean architecture. My goal is to become a software engineer, with a long-term ambition to work in Artificial Intelligence and Large Language Models (LLMs). Ask me about: Python, Django, Flask, and Clean Code principles.
+<br>Hi there<br><br>I'm a passionate and detail-oriented student developer with a strong focus on back-end engineering and Data Science. I am driven by a desire to build clean, efficient, and high-performance software.<br><br>I’m currently mastering Data Structures & Algorithms and building web applications with Django. I'm building a Pomodoro web app to refine my skills in clean architecture. My goal is to become a software engineer, with a long-term ambition to work in Artificial Intelligence and Large Language Models (LLMs). Ask me about: Python, Django, Flask, and Clean Code principles.
 
 
 # 💻 Tech Stack:
